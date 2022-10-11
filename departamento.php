@@ -52,7 +52,7 @@ $resultado = $db->query($sql);
                         ?>
                         </tbody>    
                 </table>
-                <a href="index.php"class="btn btn-danger">Regresar</a>
+                <a href="index.php"class="btn btn-primary">Regresar</a>
                     </div>
             </boy>
         </html> 
